@@ -1,6 +1,7 @@
 #include "hiker.h"
 #include <stdio.h>
 #include <stdbool.h>
+#include <string.h>
 
 #define ERROR_VALUE -1
 
