@@ -14,6 +14,7 @@
 * Cloc : https://github.com/AlDanial/cloc
 * lizard : https://github.com/terryyin/lizard
    `"D:\Program Files\Python313\Scripts\lizard.exe" -C 10 .\src --csv > .\docs\lizard_result_ccn.csv`
+  
    `lizard -C 10 .\src --csv > .\docs\lizard_result_ccn10.csv`
 * CPD : https://pmd.github.io/
    * https://pmd.github.io/pmd/pmd_userdocs_cpd.html#gui
