@@ -14,5 +14,7 @@
 * Cloc : https://github.com/AlDanial/cloc
 * lizard : https://github.com/terryyin/lizard
 * CPD : https://pmd.github.io/
+   * https://pmd.github.io/pmd/pmd_userdocs_cpd.html#gui
+   * `C:\> pmd.bat cpd-gui`
 * Doxygen : http://www.doxygen.nl/download.html
 * Graphviz : https://graphviz.gitlab.io/download/
