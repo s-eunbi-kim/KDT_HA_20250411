@@ -56,11 +56,6 @@ bool isEven(int number) {
 }
 
 // 이름을 받아 인사하는 함수 
-// void greet(const char* name, char* output, size_t output_size) {
-//    snprintf(output, output_size, "Hello, %s!", name); // 출력 버퍼에 문자열 생성
-//}
-
-// 이름을 받아 인사하는 함수 
 const char* greet(const char* name) {
     static char buffer[100];
 
